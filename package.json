@@ -1,0 +1,5 @@
+{
+    "workspaces" : ["packages/*"],
+    "private" : true,
+    "name" : "sso-sample"
+}
